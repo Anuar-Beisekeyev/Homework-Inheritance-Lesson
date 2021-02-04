@@ -1,0 +1,13 @@
+G:\Проекты\HomeworkInheritanceLesson\HomeworkInheritanceLesson\bin\Debug\netcoreapp3.1\HomeworkInheritanceLesson.exe
+G:\Проекты\HomeworkInheritanceLesson\HomeworkInheritanceLesson\bin\Debug\netcoreapp3.1\HomeworkInheritanceLesson.deps.json
+G:\Проекты\HomeworkInheritanceLesson\HomeworkInheritanceLesson\bin\Debug\netcoreapp3.1\HomeworkInheritanceLesson.runtimeconfig.json
+G:\Проекты\HomeworkInheritanceLesson\HomeworkInheritanceLesson\bin\Debug\netcoreapp3.1\HomeworkInheritanceLesson.runtimeconfig.dev.json
+G:\Проекты\HomeworkInheritanceLesson\HomeworkInheritanceLesson\bin\Debug\netcoreapp3.1\HomeworkInheritanceLesson.dll
+G:\Проекты\HomeworkInheritanceLesson\HomeworkInheritanceLesson\bin\Debug\netcoreapp3.1\HomeworkInheritanceLesson.pdb
+G:\Проекты\HomeworkInheritanceLesson\HomeworkInheritanceLesson\obj\Debug\netcoreapp3.1\HomeworkInheritanceLesson.csprojAssemblyReference.cache
+G:\Проекты\HomeworkInheritanceLesson\HomeworkInheritanceLesson\obj\Debug\netcoreapp3.1\HomeworkInheritanceLesson.AssemblyInfoInputs.cache
+G:\Проекты\HomeworkInheritanceLesson\HomeworkInheritanceLesson\obj\Debug\netcoreapp3.1\HomeworkInheritanceLesson.AssemblyInfo.cs
+G:\Проекты\HomeworkInheritanceLesson\HomeworkInheritanceLesson\obj\Debug\netcoreapp3.1\HomeworkInheritanceLesson.csproj.CoreCompileInputs.cache
+G:\Проекты\HomeworkInheritanceLesson\HomeworkInheritanceLesson\obj\Debug\netcoreapp3.1\HomeworkInheritanceLesson.dll
+G:\Проекты\HomeworkInheritanceLesson\HomeworkInheritanceLesson\obj\Debug\netcoreapp3.1\HomeworkInheritanceLesson.pdb
+G:\Проекты\HomeworkInheritanceLesson\HomeworkInheritanceLesson\obj\Debug\netcoreapp3.1\HomeworkInheritanceLesson.genruntimeconfig.cache
